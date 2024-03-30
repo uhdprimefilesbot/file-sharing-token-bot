@@ -31,10 +31,10 @@ ultroidxTeam_DB_name = os.environ.get("DATABASE_NAME", "ultroidxTeam")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-ultroidxTeam_short_URL = os.environ.get("ultroidxTeam_short_URL", "api.shareus.io")
+ultroidxTeam_short_URL = os.environ.get("ultroidxTeam_short_URL", "None")
 ultroidxTeam_short_API = os.environ.get("ultroidxTeam_short_API", "PUIAQBIFrydvLhIzAOeGV8yZppu2")
 ultroidxTeam_Timeout = int(os.environ.get('ultroidxTeam_Timeout', 86400)) # Add time in seconds
-ultroidxTeam_IS_VERIFY = os.environ.get("ultroidxTeam_IS_VERIFY", "True")
+ultroidxTeam_IS_VERIFY = os.environ.get("ultroidxTeam_IS_VERIFY", "False")
 ultroidxTeam_tutorial = os.environ.get("ultroidxTeam_tutorial","gojfsi/2")
 
 
@@ -66,7 +66,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 ultroidxTeam_botSTATS = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "Don't Send Me Message Directly I Am Only Send Files To Premium Subscriber's Only 🌟!"
 
 ultroidxTeam_ADMINS.append(OWNER_ID)
 ultroidxTeam_ADMINS.append(6852649461)
