@@ -31,11 +31,11 @@ ultroidxTeam_DB_name = os.environ.get("DATABASE_NAME", "ultroidxTeam")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-ultroidxTeam_short_URL = os.environ.get("ultroidxTeam_short_URL", "None")
-ultroidxTeam_short_API = os.environ.get("ultroidxTeam_short_API", "PUIAQBIFrydvLhIzAOeGV8yZppu2")
-ultroidxTeam_Timeout = int(os.environ.get('ultroidxTeam_Timeout', 86400)) # Add time in seconds
-ultroidxTeam_IS_VERIFY = os.environ.get("ultroidxTeam_IS_VERIFY", "False")
-ultroidxTeam_tutorial = os.environ.get("ultroidxTeam_tutorial","gojfsi/2")
+#ultroidxTeam_short_URL = os.environ.get("ultroidxTeam_short_URL", "None")
+#ultroidxTeam_short_API = os.environ.get("ultroidxTeam_short_API", "PUIAQBIFrydvLhIzAOeGV8yZppu2")
+#ultroidxTeam_Timeout = int(os.environ.get('ultroidxTeam_Timeout', 86400)) # Add time in seconds
+#ultroidxTeam_IS_VERIFY = os.environ.get("ultroidxTeam_IS_VERIFY", "False")
+#ultroidxTeam_tutorial = os.environ.get("ultroidxTeam_tutorial","gojfsi/2")
 
 
 #force sub channel id, if you want enable force sub
