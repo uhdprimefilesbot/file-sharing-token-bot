@@ -66,7 +66,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 ultroidxTeam_botSTATS = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "Don't Send Me Message Directly I Am Only Send Files To Premium Subscriber's Only 🌟!"
+USER_REPLY_TEXT = drashtiradadiya0@gmail.com 🌟!"
 
 ultroidxTeam_ADMINS.append(OWNER_ID)
 ultroidxTeam_ADMINS.append(6852649461)
